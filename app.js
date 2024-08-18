@@ -46,7 +46,7 @@ box.innerText="" ;
 }
 };
 const showWinner=(win) => {
-msg.innerText=`Congraluation,winner is ${win}`;
+msg.innerText=`winner is ${win}`;
 msg.classList.remove("hide");
 disableboxes();
 };
