@@ -31,7 +31,7 @@
     background-color:rgb(188, 213, 204);
     }
     #rst{
-    padding:1rem;
+    padding:0.6rem;
     font-size:1.25rem;
     border-radius: 20%;
     background-color: rgb(107, 175, 175);
@@ -41,7 +41,7 @@
     } 
     #newGame{
 
-    padding:1rem;
+    padding:0.6rem;
     font-size:1.25rem;
     border-radius: 20%;
     background-color: rgb(107, 175, 175);
